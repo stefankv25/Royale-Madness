@@ -1,4 +1,7 @@
-Royale Madness
+# **Royale Madness**
+
+**Reglur**
+
 
 Fjöldi spilara: 2-4
 

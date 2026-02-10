@@ -31,4 +31,8 @@ Lið
 
 Reglur
 
-Leikmenn byrja að velja karaktera einn í einu leikmaður sem byrjar að velja karakterana byrjar ekki fyrst í leiknum
+Leikmenn byrja að velja karaktera einn í einu þangað til að hver leimaður er komin með 5. leikmaður sem byrjar að velja karakterana byrjar ekki fyrst í leiknum
+leikmenn velja karektera til að spila til skipits og meiga í hvert skipti setja nýjan og/eða færa karekter áfram.
+
+
+kónga-turnin mun ekki byrja að skjóta fyrir en ein minni turn sé felldur.

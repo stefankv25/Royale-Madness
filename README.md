@@ -15,7 +15,7 @@ Mana pumpur
 Mana
 Mana Hámark: 15
 Mana per round: 3
-+1 Mana frá Mana Pump
++1 Mana frá Mana Pump per round
  
 Turnar
 Líf: 10 fyrir mini turnana (Prinsessa turnana) 20 fyrir stærri turnana (Kónga Turnana)

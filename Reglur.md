@@ -14,7 +14,7 @@ Spilahlutir Leikborðið með 3 turna. 24 Karakter frá Royale Madness. og Mana 
 
 Mana Hámark: er 15. Mana per round: 3 +1 Mana frá Mana Pump per round
 
-Turnar Líf: 9 fyrir mini turnana (Prinsessa turnana) 15 fyrir stærri turnana (Kónga Turnana) Kónga turninn virkist þegar Prinsessu turn er eyðilagður Damage: Prinsessu turn: 1 Kónga turn: 2
+Turnar Líf: 9 fyrir mini turnana (Prinsessa turnana) 15 fyrir stærri turnana (Kónga Turnana) Kónga turninn virkist þegar Prinsessu turnanir eru eyðilagður. Damage: Prinsessu turn: 1 Kónga turn: 2
 
 Tími per game 10 mínútur max Eða þegar kónga turn hjá einum spilara er með 0 líf
 

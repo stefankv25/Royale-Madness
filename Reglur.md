@@ -24,5 +24,5 @@ Reglur
 
 Leikmenn byrja að velja karaktera einn í einu þangað til að hver leikmaður er komin með 5. leikmaður sem byrjar að velja karakterana byrjar ekki fyrst í leiknum leikmenn velja karakterar til að spila til skipits og meiga í hvert skipti setja nýjan og/eða færa karakter áfram.
 
-kónga-turnin mun ekki byrja að skjóta fyrir en ein minni turn sé felldur.
+kónga-turnin mun ekki byrja að skjóta fyrir en einn minni turn sé felldur.
 
